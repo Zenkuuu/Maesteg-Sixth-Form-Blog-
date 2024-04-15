@@ -1,2 +1,2 @@
 # Maesteg-Sixth-Form-Blog-
-Maesteg Sixth Form Blog
+A Maesteg Sixth Form Blog is a project that is created for 6th Form students only. The aim of creating this blog was to show the way of representing essential information for students such as news or key dates. About code: 1.There is a chance that icons can be licensed. 2.The image of the calendar has a reference to it to show where it was taken. 3.The website is created on the laptop so there may be some issues with resolutions. 4.For internal use only by authorized access. 5.There is an interaction with the blog: icons, images, and policy notices work.
